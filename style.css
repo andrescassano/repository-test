@@ -1,7 +1,13 @@
 body {
-    background-color: olive;
+    background-color: royalblue;    
 }
 
 h1 {
-    background-color: purple;
+    background-color: pink;
+    color: orangered;        
+}
+
+p {
+    background-color: grey;
+    color: plum;
 }
